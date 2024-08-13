@@ -3,7 +3,7 @@ Retorno de valores das funções (return)
 """
 
 def soma(x, y):
-    print(x + y)    
+    return x + y    
 
 # variavel = soma(1, 2)
 # variavel = int('1')
